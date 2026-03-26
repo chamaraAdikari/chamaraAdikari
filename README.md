@@ -24,12 +24,7 @@ I am a results-driven **Software Engineer** currently based in Polgahawela, Sri 
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamaraAdikari&show_icons=true&theme=radical&hide_border=true" alt="Chamara's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamaraAdikari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
 
 ---
 
