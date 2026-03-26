@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Laravel & PHP Backend Specialist | AWS Cloud Enthusiast
 
-I am a results-driven **Software Engineer** currently based in Polgahawela, Sri Lanka. I specialize in building robust backend systems and managing cloud infrastructure. With a background in Biological Sciences (A/L 2021), I bring a unique analytical perspective to solving complex technical challenges.
+I am a results-driven **Software Engineer** currently based in Polgahawela, Sri Lanka. I specialize in building robust backend systems and managing cloud infrastructure. With a background in Software Eng, I bring a unique analytical perspective to solving complex technical challenges.
 
 ---
 
